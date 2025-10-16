@@ -1,6 +1,6 @@
 [
 		{
-		"title": "Ancien Acid",
+		"title": "Ancien Acide",
 		"notes": "Point d'intérêt",
 		"order": 0,
 		"strokecolor": "005c30",
@@ -23,8 +23,56 @@
 			{"lat": -17.159, "lng": 58.885},
 			{"lat": -15.154, "lng": 58.940}
 		]
+	},
+
+	{
+		"title": "♫glise - Route 68",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 19.022, "lng": -25.550},
+			{"lat": 19.696, "lng": -23.111},
+			{"lat": 17.331, "lng": -22.364},
+			{"lat": 16.195, "lng": -24.440},
+			{"lat": 17.656, "lng": -26.308}
+		]
+	},
+
+	{
+		"title": "Camp Lost",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 40.651, "lng": -16.511},
+			{"lat": 41.307, "lng": -15.160},
+			{"lat": 41.939, "lng": -12.622},
+			{"lat": 41.480, "lng": -11.457},
+			{"lat": 40.434, "lng": -11.084},
+			{"lat": 39.711, "lng": -11.095},
+			{"lat": 39.015, "lng": -11.304},
+			{"lat": 37.766, "lng": -11.139},
+			{"lat": 37.975, "lng": -12.798},
+			{"lat": 38.303, "lng": -14.621},
+			{"lat": 38.303, "lng": -15.643}
+		]
+	},
+
+	{
+		"title": "Boule Orange",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 55.034, "lng": 64.583},
+			{"lat": 54.387, "lng": 64.868},
+			{"lat": 54.194, "lng": 64.671},
+			{"lat": 54.111, "lng": 64.022},
+			{"lat": 54.361, "lng": 63.748}
+		]
 	}
 ]
-
-
-
