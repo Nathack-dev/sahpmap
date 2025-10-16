@@ -3,8 +3,8 @@
 		"title": "Ancien Acid",
 		"notes": "Point d'intérêt",
 		"order": 0,
-		"strokecolor": "1480b8",
-		"fillcolor": "1480b8",
+		"strokecolor": "008b50",
+		"fillcolor": "008b50",
 		"latlngarray": [
 			{"lat": -13.234, "lng": 58.898},
 			{"lat": -13.276, "lng": 63.040},
@@ -25,4 +25,5 @@
 		]
 	}
 ]
+
 
