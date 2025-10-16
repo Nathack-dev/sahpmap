@@ -74,5 +74,189 @@
 			{"lat": 54.111, "lng": 64.022},
 			{"lat": 54.361, "lng": 63.748}
 		]
+	},
+
+	{
+		"title": "Fuente Blanca (Madrazo)",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": -26.848, "lng": 22.741},
+			{"lat": -27.308, "lng": 23.015},
+			{"lat": -27.239, "lng": 25.608},
+			{"lat": -27.210, "lng": 29.003},
+			{"lat": -28.685, "lng": 29.486},
+			{"lat": -31.029, "lng": 29.300},
+			{"lat": -31.788, "lng": 28.651},
+			{"lat": -31.704, "lng": 25.718},
+			{"lat": -31.956, "lng": 23.015}
+		]
+	},
+
+	{
+		"title": "Pop Farm",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": -9.476, "lng": -15.601},
+			{"lat": -9.129, "lng": -16.644},
+			{"lat": -9.020, "lng": -17.919},
+			{"lat": -8.684, "lng": -19.105},
+			{"lat": -7.977, "lng": -19.567},
+			{"lat": -6.942, "lng": -19.556},
+			{"lat": -6.124, "lng": -18.831},
+			{"lat": -5.359, "lng": -17.270},
+			{"lat": -4.921, "lng": -16.227},
+			{"lat": -4.527, "lng": -15.425},
+			{"lat": -6.637, "lng": -15.337},
+			{"lat": -8.380, "lng": -15.425}
+		]
+	},
+
+	{
+		"title": "Scierie",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 67.469, "lng": -32.496},
+			{"lat": 67.683, "lng": -31.178},
+			{"lat": 67.645, "lng": -30.958},
+			{"lat": 67.762, "lng": -30.727},
+			{"lat": 67.641, "lng": -29.739},
+			{"lat": 67.570, "lng": -28.420},
+			{"lat": 67.160, "lng": -28.157},
+			{"lat": 65.887, "lng": -29.376},
+			{"lat": 66.199, "lng": -31.189},
+			{"lat": 65.864, "lng": -31.694},
+			{"lat": 66.025, "lng": -32.090},
+			{"lat": 66.292, "lng": -31.738},
+			{"lat": 66.608, "lng": -32.518}
+		]
+	},
+
+	{
+		"title": "QG Guttman",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": -0.284, "lng": 6.919},
+			{"lat": 0.463, "lng": 6.930},
+			{"lat": 0.891, "lng": 7.381},
+			{"lat": 1.276, "lng": 9.018},
+			{"lat": 1.320, "lng": 10.358},
+			{"lat": 0.825, "lng": 11.424},
+			{"lat": -0.350, "lng": 11.468},
+			{"lat": -1.416, "lng": 11.325},
+			{"lat": -2.108, "lng": 11.215},
+			{"lat": -2.744, "lng": 10.787},
+			{"lat": -2.316, "lng": 9.446},
+			{"lat": -1.932, "lng": 8.798},
+			{"lat": -1.207, "lng": 8.216},
+			{"lat": -0.636, "lng": 7.403}
+		]
+	},
+
+	{
+		"title": "Pops Diner",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 77.108, "lng": 26.455},
+			{"lat": 77.828, "lng": 29.641},
+			{"lat": 77.211, "lng": 32.498},
+			{"lat": 76.639, "lng": 31.663}
+		]
+	},
+
+	{
+		"title": "Éolienne",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": -13.070, "lng": 58.395},
+			{"lat": -14.095, "lng": 43.849},
+			{"lat": -7.712, "lng": 41.564},
+			{"lat": -1.363, "lng": 40.641},
+			{"lat": 6.445, "lng": 41.740},
+			{"lat": 11.350, "lng": 46.002},
+			{"lat": 8.971, "lng": 52.375},
+			{"lat": 4.126, "lng": 57.560},
+			{"lat": -1.319, "lng": 58.527},
+			{"lat": -8.886, "lng": 58.219}
+		]
+	},
+
+	{
+		"title": "Maison du Phare",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 64.786, "lng": 79.259},
+			{"lat": 65.565, "lng": 79.589},
+			{"lat": 66.176, "lng": 80.786},
+			{"lat": 65.451, "lng": 85.862},
+			{"lat": 64.180, "lng": 83.676},
+			{"lat": 64.636, "lng": 81.226}
+		]
+	},
+
+	{
+		"title": "Villa Duggan",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": -3.878, "lng": -68.506},
+			{"lat": -3.012, "lng": -68.517},
+			{"lat": -2.364, "lng": -69.122},
+			{"lat": -2.276, "lng": -70.034},
+			{"lat": -2.221, "lng": -70.616},
+			{"lat": -2.704, "lng": -70.704},
+			{"lat": -2.847, "lng": -70.836},
+			{"lat": -3.154, "lng": -70.967},
+			{"lat": -3.801, "lng": -71.121},
+			{"lat": -3.878, "lng": -70.737},
+			{"lat": -4.163, "lng": -70.803},
+			{"lat": -4.305, "lng": -70.242},
+			{"lat": -5.083, "lng": -70.231},
+			{"lat": -5.389, "lng": -70.078},
+			{"lat": -5.269, "lng": -69.770},
+			{"lat": -5.422, "lng": -69.462}
+		]
+	},
+
+	{
+		"title": "Station Essence Route 68",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 3.583, "lng": -85.128},
+			{"lat": 4.493, "lng": -87.589},
+			{"lat": 5.216, "lng": -88.061},
+			{"lat": 5.062, "lng": -89.324},
+			{"lat": 4.504, "lng": -89.654},
+			{"lat": 3.583, "lng": -91.994},
+			{"lat": 3.540, "lng": -91.335},
+			{"lat": 3.562, "lng": -89.214},
+			{"lat": 3.693, "lng": -87.841},
+			{"lat": 3.770, "lng": -86.204}
+		]
 	}
 ]
