@@ -258,5 +258,77 @@
 			{"lat": 3.693, "lng": -87.841},
 			{"lat": 3.770, "lng": -86.204}
 		]
+	},
+
+	{
+		"title": "Ammunation Route 68",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 14.344, "lng": -48.730},
+			{"lat": 16.188, "lng": -46.862},
+			{"lat": 15.416, "lng": -46.104},
+			{"lat": 13.608, "lng": -48.246}
+		]
+	},
+
+	{
+		"title": "Pêche Catfish",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 57.909, "lng": 85.799},
+			{"lat": 58.260, "lng": 90.667},
+			{"lat": 58.570, "lng": 93.117},
+			{"lat": 58.346, "lng": 93.721},
+			{"lat": 57.648, "lng": 94.182},
+			{"lat": 56.767, "lng": 94.693},
+			{"lat": 56.142, "lng": 95.693},
+			{"lat": 55.263, "lng": 96.242},
+			{"lat": 54.606, "lng": 96.177},
+			{"lat": 53.978, "lng": 93.287},
+			{"lat": 54.993, "lng": 90.442},
+			{"lat": 55.970, "lng": 87.486},
+			{"lat": 56.995, "lng": 86.025}
+		]
+	},
+
+	{
+		"title": "Mine/Carrière",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 23.091, "lng": 61.649},
+			{"lat": 21.628, "lng": 68.812},
+			{"lat": 24.818, "lng": 72.438},
+			{"lat": 23.556, "lng": 75.404},
+			{"lat": 15.445, "lng": 74.415},
+			{"lat": 12.974, "lng": 70.328},
+			{"lat": 16.185, "lng": 66.681},
+			{"lat": 14.490, "lng": 59.254},
+			{"lat": 17.740, "lng": 57.474}
+		]
+	},
+
+	{
+		"title": "Dino Rose",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 13.697, "lng": 59.063},
+			{"lat": 13.355, "lng": 57.767},
+			{"lat": 12.144, "lng": 57.294},
+			{"lat": 11.101, "lng": 57.426},
+			{"lat": 10.799, "lng": 58.635},
+			{"lat": 11.111, "lng": 59.986}
+		]
 	}
 ]
