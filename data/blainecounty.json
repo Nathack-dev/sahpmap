@@ -26,7 +26,7 @@
 	},
 
 	{
-		"title": "♫glise - Route 68",
+		"title": "Église - Route 68",
 		"notes": "Point d'intérêt",
 		"order": 0,
 		"strokecolor": "005c30",
@@ -329,6 +329,119 @@
 			{"lat": 11.101, "lng": 57.426},
 			{"lat": 10.799, "lng": 58.635},
 			{"lat": 11.111, "lng": 59.986}
+		]
+	},
+
+	{
+		"title": "Terrain de cross",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 10.968, "lng": 16.735},
+			{"lat": 11.011, "lng": 11.132},
+			{"lat": 10.795, "lng": 10.055},
+			{"lat": 10.406, "lng": 9.681},
+			{"lat": 7.542, "lng": 8.846},
+			{"lat": 5.774, "lng": 8.407},
+			{"lat": 3.891, "lng": 7.836},
+			{"lat": 2.882, "lng": 7.396},
+			{"lat": 2.421, "lng": 8.846},
+			{"lat": 1.904, "lng": 10.401},
+			{"lat": 1.289, "lng": 11.808},
+			{"lat": 0.234, "lng": 13.071},
+			{"lat": -1.557, "lng": 14.674},
+			{"lat": -3.170, "lng": 15.685},
+			{"lat": -3.110, "lng": 18.755},
+			{"lat": 10.835, "lng": 19.304}
+		]
+	},
+
+		{
+		"title": "Lac Mont Gordo",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 75.053, "lng": 59.387},
+			{"lat": 74.971, "lng": 59.925},
+			{"lat": 74.727, "lng": 60.299},
+			{"lat": 74.628, "lng": 60.222},
+			{"lat": 74.631, "lng": 58.904},
+			{"lat": 74.611, "lng": 58.464},
+			{"lat": 74.532, "lng": 57.871},
+			{"lat": 74.520, "lng": 57.475},
+			{"lat": 74.651, "lng": 57.333},
+			{"lat": 74.764, "lng": 57.695},
+			{"lat": 74.825, "lng": 58.288},
+			{"lat": 74.945, "lng": 58.871}
+		]
+	},
+
+	{
+		"title": "Hookie's Bar",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 52.776, "lng": -78.438},
+			{"lat": 52.133, "lng": -76.570},
+			{"lat": 51.082, "lng": -77.383},
+			{"lat": 50.415, "lng": -80.503}
+		]
+	},
+
+	{
+		"title": "Antenne Rebelle",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 11.140, "lng": 8.206},
+			{"lat": 12.291, "lng": 6.723},
+			{"lat": 12.044, "lng": 5.493},
+			{"lat": 9.822, "lng": 5.493},
+			{"lat": 9.692, "lng": 8.415}
+		]
+	},
+
+	{
+		"title": "Kayak",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": -17.174, "lng": -58.351},
+			{"lat": -17.079, "lng": -57.461},
+			{"lat": -18.032, "lng": -57.472},
+			{"lat": -19.478, "lng": -57.714},
+			{"lat": -20.284, "lng": -58.099},
+			{"lat": -19.861, "lng": -59.065},
+			{"lat": -19.022, "lng": -59.010},
+			{"lat": -17.802, "lng": -58.604}
+		]
+	},
+
+	{
+		"title": "Casse à Avion",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 27.519, "lng": 56.510},
+			{"lat": 27.684, "lng": 50.687},
+			{"lat": 27.109, "lng": 50.973},
+			{"lat": 26.442, "lng": 51.292},
+			{"lat": 25.781, "lng": 51.577},
+			{"lat": 24.788, "lng": 51.830},
+			{"lat": 23.937, "lng": 51.599},
+			{"lat": 23.867, "lng": 56.378}
 		]
 	}
 ]
