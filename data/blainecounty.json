@@ -443,5 +443,332 @@
 			{"lat": 23.937, "lng": 51.599},
 			{"lat": 23.867, "lng": 56.378}
 		]
+	},
+
+	{
+		"title": "YouTool",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 36.041, "lng": 66.386},
+			{"lat": 37.205, "lng": 62.354},
+			{"lat": 34.778, "lng": 61.024},
+			{"lat": 33.313, "lng": 65.045}
+		]
+	},
+
+	{
+		"title": "Parabole",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 19.466, "lng": 48.144},
+			{"lat": 20.602, "lng": 41.167},
+			{"lat": 22.279, "lng": 40.783},
+			{"lat": 22.654, "lng": 42.705},
+			{"lat": 22.979, "lng": 44.298},
+			{"lat": 22.979, "lng": 45.858},
+			{"lat": 22.441, "lng": 47.133},
+			{"lat": 21.708, "lng": 47.880},
+			{"lat": 20.489, "lng": 48.144}
+		]
+	},
+
+	{
+		"title": "Boling Brooke",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 12.638, "lng": 39.765},
+			{"lat": 14.613, "lng": 39.677},
+			{"lat": 15.790, "lng": 38.754},
+			{"lat": 17.074, "lng": 37.183},
+			{"lat": 17.336, "lng": 36.557},
+			{"lat": 17.263, "lng": 32.954},
+			{"lat": 16.969, "lng": 32.130},
+			{"lat": 16.464, "lng": 31.591},
+			{"lat": 15.249, "lng": 30.394},
+			{"lat": 14.867, "lng": 29.976},
+			{"lat": 14.473, "lng": 29.691},
+			{"lat": 11.835, "lng": 28.833},
+			{"lat": 8.122, "lng": 29.078},
+			{"lat": 6.989, "lng": 30.638},
+			{"lat": 5.908, "lng": 32.473},
+			{"lat": 5.744, "lng": 33.352},
+			{"lat": 6.039, "lng": 35.044},
+			{"lat": 6.607, "lng": 36.801},
+			{"lat": 7.480, "lng": 37.790},
+			{"lat": 8.643, "lng": 38.625},
+			{"lat": 9.381, "lng": 38.955},
+			{"lat": 10.139, "lng": 39.054},
+			{"lat": 10.150, "lng": 39.691},
+			{"lat": 12.144, "lng": 39.757}
+		]
+	},
+
+	{
+		"title": "Motel Route 68/Harmony",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 14.065, "lng": -2.891},
+			{"lat": 12.515, "lng": -2.682},
+			{"lat": 11.709, "lng": -5.473},
+			{"lat": 13.093, "lng": -6.384},
+			{"lat": 13.638, "lng": -4.813}
+		]
+	},
+
+	{
+		"title": "Silo (Camp Lost)",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 39.387, "lng": -22.459},
+			{"lat": 40.281, "lng": -21.504},
+			{"lat": 39.089, "lng": -19.823},
+			{"lat": 38.101, "lng": -20.757}
+		]
+	},
+
+	{
+		"title": "Camp Nudiste",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 62.263, "lng": -44.322},
+			{"lat": 62.664, "lng": -47.057},
+			{"lat": 62.329, "lng": -48.617},
+			{"lat": 61.606, "lng": -49.057},
+			{"lat": 61.127, "lng": -47.068},
+			{"lat": 61.523, "lng": -45.574},
+			{"lat": 61.918, "lng": -44.443}
+		]
+	},
+
+	{
+		"title": "Camp Hippie",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 43.326, "lng": 56.903},
+			{"lat": 42.796, "lng": 58.606},
+			{"lat": 41.353, "lng": 58.101},
+			{"lat": 40.531, "lng": 57.156},
+			{"lat": 41.378, "lng": 55.519},
+			{"lat": 42.740, "lng": 55.816}
+		]
+	},
+	
+	{
+		"title": "Camp SDF",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 76.084, "lng": 30.474},
+			{"lat": 76.283, "lng": 29.079},
+			{"lat": 76.361, "lng": 26.519},
+			{"lat": 76.364, "lng": 25.607},
+			{"lat": 75.957, "lng": 25.750},
+			{"lat": 75.911, "lng": 27.069},
+			{"lat": 75.994, "lng": 27.937},
+			{"lat": 75.836, "lng": 29.200}
+		]
+	},
+
+	{
+		"title": "OKLM Farm",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 57.741, "lng": 58.979},
+			{"lat": 58.299, "lng": 60.188},
+			{"lat": 58.403, "lng": 60.375},
+			{"lat": 58.877, "lng": 59.540},
+			{"lat": 58.707, "lng": 58.979},
+			{"lat": 58.690, "lng": 58.848},
+			{"lat": 58.472, "lng": 58.320},
+			{"lat": 58.293, "lng": 58.013}
+		]
+	},
+
+	{
+		"title": "Maison O'Neil",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 63.899, "lng": 54.626},
+			{"lat": 62.284, "lng": 52.451},
+			{"lat": 61.069, "lng": 55.121},
+			{"lat": 62.614, "lng": 57.977}
+		]
+	},
+
+	{
+		"title": "Silo (Boule Orange/Human)",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 54.596, "lng": 69.099},
+			{"lat": 51.695, "lng": 71.034},
+			{"lat": 51.153, "lng": 69.727},
+			{"lat": 51.153, "lng": 69.419},
+			{"lat": 54.273, "lng": 67.255},
+			{"lat": 54.427, "lng": 67.914},
+			{"lat": 54.548, "lng": 68.617}
+		]
+	},
+
+	{
+		"title": "QG The Veteran",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 47.294, "lng": 57.166},
+			{"lat": 47.732, "lng": 55.397},
+			{"lat": 49.539, "lng": 56.540},
+			{"lat": 49.002, "lng": 58.660}
+		]
+	},
+
+	{
+		"title": "Yellow Jack",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 26.150, "lng": 42.366},
+			{"lat": 25.537, "lng": 43.530},
+			{"lat": 25.170, "lng": 43.992},
+			{"lat": 24.792, "lng": 44.278},
+			{"lat": 24.262, "lng": 44.376},
+			{"lat": 23.700, "lng": 44.135},
+			{"lat": 23.408, "lng": 43.860},
+			{"lat": 23.226, "lng": 43.486},
+			{"lat": 22.994, "lng": 42.827},
+			{"lat": 22.903, "lng": 42.113},
+			{"lat": 23.649, "lng": 41.773},
+			{"lat": 24.612, "lng": 41.124}
+		]
+	},
+
+	{
+		"title": "Usine de Poulet / Abatoire",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 75.688, "lng": -17.093},
+			{"lat": 75.743, "lng": -16.687},
+			{"lat": 75.702, "lng": -16.335},
+			{"lat": 75.461, "lng": -15.500},
+			{"lat": 75.180, "lng": -17.104},
+			{"lat": 74.999, "lng": -17.851},
+			{"lat": 74.831, "lng": -18.357},
+			{"lat": 74.526, "lng": -19.455},
+			{"lat": 74.346, "lng": -20.191},
+			{"lat": 74.596, "lng": -21.191},
+			{"lat": 74.807, "lng": -20.455},
+			{"lat": 75.039, "lng": -19.620},
+			{"lat": 75.166, "lng": -19.104},
+			{"lat": 75.275, "lng": -18.785},
+			{"lat": 75.431, "lng": -18.214},
+			{"lat": 75.601, "lng": -17.467}
+		]
+	},
+
+	{
+		"title": "Blackwood",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 75.632, "lng": -24.525},
+			{"lat": 75.763, "lng": -24.008},
+			{"lat": 75.564, "lng": -23.097},
+			{"lat": 75.449, "lng": -23.569},
+			{"lat": 75.426, "lng": -23.833},
+			{"lat": 75.471, "lng": -24.107}
+		]
+	},
+
+	{
+		"title": "STAG/Bayview Lodge",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 72.256, "lng": -34.753},
+			{"lat": 72.098, "lng": -34.160},
+			{"lat": 71.922, "lng": -33.940},
+			{"lat": 71.702, "lng": -34.138},
+			{"lat": 71.365, "lng": -34.566},
+			{"lat": 71.354, "lng": -34.951},
+			{"lat": 71.445, "lng": -35.764},
+			{"lat": 71.477, "lng": -35.951},
+			{"lat": 71.750, "lng": -35.467},
+			{"lat": 72.027, "lng": -35.105}
+		]
+	},
+
+	{
+		"title": "Téléphérique",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": 69.029, "lng": -37.228},
+			{"lat": 69.295, "lng": -36.152},
+			{"lat": 69.431, "lng": -36.437},
+			{"lat": 69.496, "lng": -36.272},
+			{"lat": 69.927, "lng": -36.217},
+			{"lat": 69.968, "lng": -37.580},
+			{"lat": 69.821, "lng": -37.712},
+			{"lat": 69.569, "lng": -37.882},
+			{"lat": 69.334, "lng": -37.640}
+		]
+	},	
+
+	{
+		"title": "Totem",
+		"notes": "Point d'intérêt",
+		"order": 0,
+		"strokecolor": "005c30",
+		"fillcolor": "005c30",
+		"latlngarray": [
+			{"lat": -1.289, "lng": -60.468},
+			{"lat": -1.574, "lng": -60.105},
+			{"lat": -2.474, "lng": -60.457},
+			{"lat": -2.101, "lng": -61.050}
+		]
 	}
 ]
